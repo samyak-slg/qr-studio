@@ -1,0 +1,21 @@
+# Dependencies (re-created by `npm install`)
+node_modules/
+
+# Build output (re-created by `npm run build`)
+dist/
+
+# Logs and editor files
+*.log
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# Local environment files
+.env
+.env.*
+.vercel
+
+# Claude Code local settings
+.claude/
